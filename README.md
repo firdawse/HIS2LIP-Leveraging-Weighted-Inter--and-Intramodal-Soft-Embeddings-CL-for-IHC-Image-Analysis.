@@ -18,4 +18,4 @@ The models are fine-tuned on **MIHIC**, the largest public IHC dataset for lung 
 
 ## ⚠️ Notes  
 - Model weights and evaluation datasets will be released **after paper acceptance**.  
-- Prompts for evaluation are available in constants.py file.  
+- Prompts for evaluation are available in **constants.py** file.  
