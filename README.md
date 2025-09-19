@@ -1,1 +1,1 @@
-# HIS2LIP-Leveraging-Weighted-Inter--and-Intramodal-Soft-Embeddings-CL-for-IHC-Image-Analysis.
+# HIS2LIP Leveraging Weighted Inter-and-Intramodal Soft Embeddings Contrastive Loss for IHC Image Analysis.
