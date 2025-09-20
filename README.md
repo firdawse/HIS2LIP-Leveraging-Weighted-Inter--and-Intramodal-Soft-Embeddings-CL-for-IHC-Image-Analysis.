@@ -17,5 +17,6 @@ The models are fine-tuned on **MIHIC**, the largest public IHC dataset for lung 
 - **Analysis time reduced** from ~15 minutes per patch to ~6 seconds while maintaining high accuracy.  
 
 ## ⚠️ Notes  
+- Supplementary material can be found in the PDF: **HIS2LIP_supplementary_material.pdf** 
 - Model weights and evaluation datasets will be released **after paper acceptance**.  
 - Prompts for evaluation are available in **constants.py** file.  
